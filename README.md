@@ -1,6 +1,6 @@
 # Examen_PHP_lruizap
 
-Examen_PHP_lruizap
+Examen de PHP de 2º DAW
 
 # Disfruta
 
